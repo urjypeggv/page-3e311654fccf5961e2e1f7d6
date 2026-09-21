@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "7b6e88638d3e62c32bde6d7b",
+  "owner": "urjypeggv",
+  "repo": "page-3e311654fccf5961e2e1f7d6",
+  "title": "觅云(MeCloud)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "3e311654fccf5961e2e1f7d6",
+      "a": "觅云(MeCloud)",
+      "b": "机场官网线路发布页",
+      "entity": "觅云(MeCloud)",
+      "brand": "觅云(MeCloud)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "4a630152b3560e689e0913475d0e4cd7bbba5d6b4ded85c77f1e529b9fd037cb",
+      "content": {
+        "primary_entity": "觅云(MeCloud)",
+        "keyword1": "觅云(MeCloud)",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_DESCRIPTION": "，围绕多设备接入与订阅周期设计套餐，基础版、旗舰版与团队版分别对应轻度、进阶与团队需求。基础版每月 100GB 流量、支持 3 台设备；旗舰版每月 300GB 流量、支持 5 台设备，并带有 IPLC 专线游戏加速优化；团队版每月 1000GB 流量、支持 20 台设备。用户可先确认常用设备数量，再按年付方案选择更合适的版本。",
+          "AI_HERO_SUBTITLE": "多设备订阅，按需选版本",
+          "AI_HERO_INTRO": "觅云(MeCloud)提供面向海外加速的订阅方案，按流量、设备数与线路类型分为基础版、旗舰版和团队版。轻量浏览可选基础版，游戏与流媒体可关注旗舰版专线优化，多成员共用或企业路由需求可看团队版。",
+          "AI_VISUAL_TITLE": "觅云订阅版本对比",
+          "AI_HIGHLIGHT_1": "基础版每月 100GB，支持 3 台设备",
+          "AI_HIGHLIGHT_2": "旗舰版带 IPLC 专线游戏加速优化",
+          "AI_HIGHLIGHT_3": "团队版每月 1000GB，支持 20 台设备",
+          "AI_FEATURES_TITLE": "选择版本的三项参考",
+          "AI_FEATURES_INTRO": "从设备数量、流量规模和订阅周期入手，能较快判断适合的版本。",
+          "AI_FEATURE_TITLE_1": "按设备数量选",
+          "AI_FEATURE_TEXT_1": "基础版 3 台、旗舰版 5 台、团队版 20 台，按常用手机、电脑与平板总数匹配。",
+          "AI_FEATURE_TITLE_2": "按流量需求选",
+          "AI_FEATURE_TEXT_2": "基础版每月 100GB 适合日常浏览，旗舰版 300GB 兼顾流媒体，团队版 1000GB 面向多人共用。",
+          "AI_FEATURE_TITLE_3": "按订阅周期选",
+          "AI_FEATURE_TEXT_3": "月付灵活试用，年付更省，如基础版按年付仅需 ¥150/年，旗舰版按年付仅需 ¥350/年。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "不同系统可选择常见客户端导入订阅，具体兼容性以各客户端文档为准，建议按设备类型分别配置。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版 ¥15/月，旗舰版 ¥35/月，团队版 ¥85/月；年付方案分别为 ¥150/年、¥350/年、¥850/年。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_GUIDE_INTRO": "先确认设备与流量需求，再按客户端文档完成订阅配置。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TEXT_1": "根据设备数量与月流量，在基础版、旗舰版、团队版中确定套餐。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "核对常用系统与客户端是否支持订阅导入，并确认同时在线设备数。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "依客户端文档导入订阅地址，完成后按需切换节点即可使用。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "觅云(MeCloud)的基础版和旗舰版主要差别是什么？",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB、支持 3 台设备；旗舰版每月 300GB、支持 5 台设备，并带 IPLC 专线游戏加速优化和全节点原生流媒体解锁。",
+          "AI_FAQ_QUESTION_2": "同一账号可以在多台设备上使用吗？",
+          "AI_FAQ_ANSWER_2": "各版本有同时在线设备数限制：基础版 3 台，旗舰版 5 台，团队版 20 台。超出限制时需断开部分设备再连接。",
+          "AI_FAQ_QUESTION_3": "年付比月付能省多少？",
+          "AI_FAQ_ANSWER_3": "基础版月付 ¥15/月，按年付仅需 ¥150/年；旗舰版月付 ¥35/月，按年付仅需 ¥350/年；团队版月付 ¥85/月，按年付仅需 ¥850/年。",
+          "AI_FAQ_QUESTION_4": "团队版适合哪些使用场景？",
+          "AI_FAQ_ANSWER_4": "团队版每月 1000GB、支持 20 台设备，并带 VIP 专属高带宽节点、企业定制路由和专属客户经理服务，适合小团队或企业统一配置。",
+          "AI_FAQ_QUESTION_5": "配置订阅需要准备什么？",
+          "AI_FAQ_ANSWER_5": "准备好可用设备与对应客户端，按客户端文档导入订阅地址即可。不同系统支持的客户端不同，建议分别查看适配说明。",
+          "AI_CLOSING_TITLE": "按需选版本",
+          "AI_CLOSING_TEXT": "从设备数量与流量出发，选定版本后即可依客户端文档配置订阅。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "baoyue0597.cn",
+    "host": "baoyue0597.cn"
+  },
+  "file_hashes": {
+    "index.html": "59c01cd40fb2367b385392788e09cdb16eab5fa4d3420f570d1ed1f81be91050",
+    "sitemap.xml": "7ac4ba9695acd0f7a6cef1ef8c6ad7ace5426e1ec290a25f8b34a7f9ce04c45b",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "dd894d0a704ace6e529b5c77f78f515606333520eaca98e34082bdfe9ac50db3",
+    "robots.txt": "18d69b63701ef3b5513e8dd0117f410a9cbfccf02434d7fc029c18c2c6cbf480",
+    "be83277d24fc81fcf5b4d6e7e93d29f4.txt": "05296f8eff877fcffbb2d2fd16ececddb7fefe5130a1b45cac7d6f5c91104efb"
+  },
+  "revision": "9b15242cee1360761c41d1a3625cccc7b58fc6c7db173ad1176ea7375eef5ba3"
+}
